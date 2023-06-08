@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< Updated upstream
 				"C:/Users/germa/OneDrive/Documentos/GitHub/Bohemia_3030/Proyecto_Unreal/Content/Mapas/Map_Exterior.umap",
 				"C:/Users/germa/OneDrive/Documentos/GitHub/Bohemia_3030/Proyecto_Unreal/Content/Mapas/_GENERATED/Mapa_Ext/New_Project_Bitmap_Output-1025.uasset",
 				"C:/Users/germa/OneDrive/Documentos/GitHub/Bohemia_3030/Proyecto_Unreal/Content/Mapas/_GENERATED/Mapa_Ext/New_Project_Height_Output-1025.uasset",
@@ -12,6 +13,16 @@
 				"C:/Users/germa/OneDrive/Documentos/GitHub/Bohemia_3030/Proyecto_Unreal/Content/Mapas/_GENERATED/Mapa_Ext/New_Project_Height_Output-1009.uasset",
 				"C:/Users/germa/OneDrive/Documentos/GitHub/Bohemia_3030/Proyecto_Unreal/Content/Mapas/_GENERATED/Mapa_Ext/New_Project_Bitmap_Output-1009.uasset",
 				"C:/Users/germa/OneDrive/Documentos/GitHub/Bohemia_3030/Proyecto_Unreal/Content/Materiales/Masters/M_Exterior.uasset",
+=======
+				"E:/Prueba/Bohemia_3030/Proyecto_Unreal/Content/Mapas/Map_Prueba_BP.umap",
+				"E:/Prueba/Bohemia_3030/Proyecto_Unreal/Content/Puebas/BPI_Estacion.uasset",
+				"E:/Prueba/Bohemia_3030/Proyecto_Unreal/Content/Puebas/BP_Pulsador.uasset",
+				"E:/Prueba/Bohemia_3030/Proyecto_Unreal/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"E:/Prueba/Bohemia_3030/Proyecto_Unreal/Content/Puebas/BP_Teleferico.uasset",
+				"E:/Prueba/Bohemia_3030/Proyecto_Unreal/Content/Puebas/BP_Estacion_Inicio.uasset",
+				"E:/Prueba/Bohemia_3030/Proyecto_Unreal/Content/Mapas/_GENERATED/cicco/Cylinder_B773514B.uasset",
+				"E:/Prueba/Bohemia_3030/Proyecto_Unreal/Content/Mapas/_GENERATED/cicco/Cylinder_BAB533E0.uasset",
+>>>>>>> Stashed changes
 				"E:/Prueba/Bohemia3030/Bohemia/Content/Meshes_Propias/Ciudad_Male/ciudad_acomodada_edificio464.uasset",
 				"E:/Prueba/Bohemia3030/Bohemia/Content/Meshes_Propias/Ciudad_Male/ciudad_acomodada_edificio455.uasset",
 				"E:/Prueba/Bohemia3030/Bohemia/Content/Meshes_Propias/Ciudad_Male/ciudad_acomodada_edificio442.uasset",
