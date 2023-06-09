@@ -7,8 +7,6 @@
 			"files": [
 				"E:/Prueba/Bohemia_3030/Proyecto_Unreal/Content/Materiales/Masters/M_Exterior.uasset",
 				"E:/Prueba/Bohemia_3030/Proyecto_Unreal/Content/Puebas/Bp_Puerta.uasset",
-				"E:/Prueba/Bohemia_3030/Proyecto_Unreal/Content/Puebas/NewInterface.uasset",
-				"E:/Prueba/Bohemia_3030/Proyecto_Unreal/Content/Puebas/BPI_Puerta.uasset",
 				"E:/Prueba/Bohemia_3030/Proyecto_Unreal/Content/Puebas/BP_Estacion_Inicio.uasset",
 				"E:/Prueba/Bohemia_3030/Proyecto_Unreal/Content/Puebas/BP_Teleferico.uasset",
 				"E:/Prueba/Bohemia_3030/Proyecto_Unreal/Content/Mapas/Map_Prueba_BP.umap",
@@ -17,7 +15,12 @@
 				"E:/Prueba/Bohemia_3030/Proyecto_Unreal/Content/Puebas/Puerta/BPI_Puerta.uasset",
 				"E:/Prueba/Bohemia_3030/Proyecto_Unreal/Content/Puebas/Puerta/Bp_Puerta_Abierta.uasset",
 				"E:/Prueba/Bohemia_3030/Proyecto_Unreal/Content/Puebas/Puerta/Bp_Puerta_Cerrada.uasset",
-				"E:/Prueba/Bohemia_3030/Proyecto_Unreal/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
+				"E:/Prueba/Bohemia_3030/Proyecto_Unreal/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"E:/Prueba/Bohemia_3030/Proyecto_Unreal/Content/Puebas/Custom.uasset",
+				"E:/Prueba/Bohemia_3030/Proyecto_Unreal/Content/Puebas/BP_Pulsador.uasset",
+				"E:/Prueba/Bohemia_3030/Proyecto_Unreal/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset",
+				"E:/Prueba/Bohemia_3030/Proyecto_Unreal/Content/Puebas/NewInterface.uasset",
+				"E:/Prueba/Bohemia_3030/Proyecto_Unreal/Content/Puebas/BPI_Puerta.uasset"
 			]
 		}
 	]
