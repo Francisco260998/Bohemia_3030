@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+<<<<<<< HEAD
 				"C:/Users/Aula 2/Documents/GitHub/Bohemia_3030/Proyecto_Unreal/Content/Materiales/M_Instances/M_I_Edificio01.uasset",
 				"C:/Users/Aula 2/Documents/GitHub/Bohemia_3030/Proyecto_Unreal/Content/Materiales/M_Instances/M_I_Edificio02.uasset",
 				"C:/Users/Aula 2/Documents/GitHub/Bohemia_3030/Proyecto_Unreal/Content/Materiales/M_Instances/M_I_Edificio03.uasset",
@@ -396,6 +397,22 @@
 				"C:/Users/germa/OneDrive/Documentos/GitHub/Bohemia_3030/Proyecto_Unreal/Content/Meshes_Propias/Teleferico/Tele_final_Teleferico.uasset",
 				"C:/Users/germa/OneDrive/Documentos/GitHub/Bohemia_3030/Proyecto_Unreal/Content/Meshes_Propias/Teleferico/Tele_final_Vidrios_Teleferico.uasset",
 				"C:/Users/germa/OneDrive/Documentos/GitHub/Bohemia_3030/Proyecto_Unreal/Content/Mapas/Map_Exterior.umap"
+=======
+				"C:/Users/Aula 2/Downloads/JulepaLandia/Bohemia_3030/Proyecto_Unreal/Content/Mapas/Map_Int_Domo.umap",
+				"C:/Users/Aula 2/Downloads/JulepaLandia/Bohemia_3030/Proyecto_Unreal/Content/Meshes_Propias/JuloGranja/Coso/Cerca.uasset",
+				"C:/Users/Aula 2/Downloads/JulepaLandia/Bohemia_3030/Proyecto_Unreal/Content/Meshes_Propias/JuloGranja/Coso/Texturas/Bateria/Bateria_mat.uasset",
+				"C:/Users/Aula 2/Downloads/JulepaLandia/Bohemia_3030/Proyecto_Unreal/Content/Meshes_Propias/JuloGranja/Coso/Cerca_polySurface5.uasset",
+				"C:/Users/Aula 2/Downloads/JulepaLandia/Bohemia_3030/Proyecto_Unreal/Content/Megascans/3D_Plants/Grass_Clumps_rbojr/Foliage/FT_Grass_Clumps_rbojr_Var1_lod1.uasset",
+				"C:/Users/Aula 2/Downloads/JulepaLandia/Bohemia_3030/Proyecto_Unreal/Content/Megascans/3D_Plants/Grass_Clumps_rbojr/Foliage/FT_Grass_Clumps_rbojr_Var2_lod1.uasset",
+				"C:/Users/Aula 2/Downloads/JulepaLandia/Bohemia_3030/Proyecto_Unreal/Content/Megascans/3D_Plants/Grass_Clumps_rbojr/Foliage/FT_Grass_Clumps_rbojr_Var3_lod1.uasset",
+				"D:/Image Campus/Proyectos/5Cuatrimestre/Unreal/Bohemia_3030/Proyecto_Unreal/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Image Campus/Proyectos/5Cuatrimestre/Unreal/Bohemia_3030/Proyecto_Unreal/Content/Mapas/Map_Int_Domo.umap",
+				"D:/Image Campus/Proyectos/5Cuatrimestre/Unreal/Bohemia_3030/Proyecto_Unreal/Content/Meshes_Propias/JuloGranja/Coso/Silo_mat.uasset",
+				"D:/Image Campus/Proyectos/5Cuatrimestre/Unreal/Bohemia_3030/Proyecto_Unreal/Content/Mapas/Map_Int_Domo_BuiltData.uasset",
+				"D:/Image Campus/Proyectos/5Cuatrimestre/Unreal/Bohemia_3030/Proyecto_Unreal/Content/Megascans/3D_Plants/Wheat_Grass_tdcrdbur/Foliage/FT_Wheat_Grass_tdcrdbur_Var1_lod1.uasset",
+				"D:/Image Campus/Proyectos/5Cuatrimestre/Unreal/Bohemia_3030/Proyecto_Unreal/Content/Megascans/Surfaces/Lush_Grass_xbrffjd/Rolling_Hills_Bitmap_1025.uasset",
+				"D:/Image Campus/Proyectos/5Cuatrimestre/Unreal/Bohemia_3030/Proyecto_Unreal/Content/Megascans/Surfaces/Lush_Grass_xbrffjd/Terreno_mat.uasset"
+>>>>>>> 5cb4abc50ec2240aa1a76b9938c8465ce12b66f3
 			]
 		}
 	]
