@@ -332,7 +332,16 @@
 				"E:/Unrea_II/Bohemia_3030/Proyecto_Unreal/Content/Meshes_Propias/Parada_ciudad/texturas/arbol/nature_trunk_0024_01_preview_NORM.uasset",
 				"E:/Unrea_II/Bohemia_3030/Proyecto_Unreal/Content/Meshes_Propias/Parada_ciudad/texturas/arbusto_de_plantas/Bark_LQ.uasset",
 				"E:/Unrea_II/Bohemia_3030/Proyecto_Unreal/Content/Meshes_Propias/Parada_ciudad/texturas/arbusto_de_plantas/Bush.uasset",
-				"E:/Unrea_II/Bohemia_3030/Proyecto_Unreal/Content/Mapas/Map_Int_Domo.umap"
+				"E:/Unrea_II/Bohemia_3030/Proyecto_Unreal/Content/Mapas/Map_Int_Domo.umap",
+				"E:/Unrea_II/Bohemia_3030/Proyecto_Unreal/Content/Puebas/Puerta/BPI_Puerta.uasset",
+				"E:/Unrea_II/Bohemia_3030/Proyecto_Unreal/Content/Puebas/Puerta/Bp_Puerta.uasset",
+				"E:/Unrea_II/Bohemia_3030/Proyecto_Unreal/Content/Puebas/Puerta/Bp_Puerta_Abierta.uasset",
+				"E:/Unrea_II/Bohemia_3030/Proyecto_Unreal/Content/Puebas/Puerta/Bp_Puerta_Cerrada.uasset",
+				"E:/Unrea_II/Bohemia_3030/Proyecto_Unreal/Content/Puebas/Custom.uasset",
+				"E:/Unrea_II/Bohemia_3030/Proyecto_Unreal/Content/Puebas/BP_Pulsador.uasset",
+				"E:/Unrea_II/Bohemia_3030/Proyecto_Unreal/Content/Puebas/BP_Estacion_Inicio.uasset",
+				"E:/Unrea_II/Bohemia_3030/Proyecto_Unreal/Content/Mapas/Map_Prueba_BP.umap",
+				"E:/Unrea_II/Bohemia_3030/Proyecto_Unreal/Content/FirstPerson/Blueprints/BP_FirstPersonGameMode.uasset"
 			]
 		}
 	]
