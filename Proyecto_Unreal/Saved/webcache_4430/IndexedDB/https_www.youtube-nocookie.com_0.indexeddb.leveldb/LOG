@@ -1,0 +1,6 @@
+2023/06/28-16:10:06.267 2db8 Creating DB C:/Users/Aula 2/Downloads/JulepaLandia/Bohemia_3030/Proyecto_Unreal/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2023/06/28-16:10:06.283 2db8 Reusing MANIFEST C:/Users/Aula 2/Downloads/JulepaLandia/Bohemia_3030/Proyecto_Unreal/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/06/28-16:18:23.991 2e8c Level-0 table #5: started
+2023/06/28-16:18:24.003 2e8c Level-0 table #5: 1167 bytes OK
+2023/06/28-16:18:24.006 2e8c Delete type=0 #3
+2023/06/28-16:18:24.006 2e8c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
