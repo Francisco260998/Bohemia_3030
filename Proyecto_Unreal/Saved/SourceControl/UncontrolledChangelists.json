@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Image Campus/Proyectos/5Cuatrimestre/Unreal/Bohemia_3030/Proyecto_Unreal/Content/Meshes_Propias/Ciudad_Male/Texturas_Ciudad/Map_Int_Domo_Auto1.umap",
+				"D:/Image Campus/Proyectos/5Cuatrimestre/Unreal/Bohemia_3030/Proyecto_Unreal/Content/Meshes_Propias/Ciudad_Male/Texturas_Ciudad/Map_Exterior_Auto1.umap",
+				"D:/Image Campus/Proyectos/5Cuatrimestre/Unreal/Bohemia_3030/Proyecto_Unreal/Content/Mapas/Map_Int_Domo.umap",
 				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset",
 				"E:/Unrea_II/Bohemia_3030/Proyecto_Unreal/Content/Meshes_Propias/Parada_ciudad/Parada/ecenario_Tree_0028.uasset",
 				"E:/Unrea_II/Bohemia_3030/Proyecto_Unreal/Content/Meshes_Propias/Parada_ciudad/Parada/ecenario_Tree_00268.uasset",
