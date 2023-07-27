@@ -23,5 +23,8 @@
 			"Name": "WaterExtras",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"Windows"
 	]
 }
